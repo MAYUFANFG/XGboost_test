@@ -15,3 +15,6 @@ $ pip install pandas
 ```
 my_dataframe = pandas.DataFrame(字典或陣列資料)
 ```
+資料來源：
+[Pandas教學]資料分析必懂的Pandas DataFrame處理雙維度資料方法
+https://www.learncodewithmike.com/2020/11/python-pandas-dataframe-tutorial.html
