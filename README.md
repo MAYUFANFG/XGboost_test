@@ -30,6 +30,9 @@ my_dataframe = pandas.DataFrame(字典或陣列資料)
 * standard deviation normalization：
 會將所有特徵數據縮放成平均為0、平方差為1。
 
+* min max normalization：
+![image](https://github.com/MAYUFANFG/XGboost_test/blob/main/minmaxscaler.png)
+
 
 資料來源：
 1. [Pandas教學]資料分析必懂的Pandas DataFrame處理雙維度資料方法
